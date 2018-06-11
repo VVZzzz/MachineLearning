@@ -1,0 +1,4 @@
+/snap/clion/22/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ehigh/机器学习/LearnML/cpp/DecisionTree
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ehigh/机器学习/LearnML/cpp/DecisionTree/cmake-build-debug
